@@ -3,7 +3,7 @@ This repository contains code for LSTM-based models that generate harmonic seque
 
 AI-Powered-Music-Generation-for-Guitar-and-Bass/
 
-Guitars_and_Bass/  # Contains the MIDI dataset
+Guitarras y bajos/  # Contains the MIDI dataset
 
 Generate_Bass.ipynb #Code for bass tracks generation # Keep the LSTM_Bass.ipynb file in the same folder as this file
 
